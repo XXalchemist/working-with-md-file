@@ -1,7 +1,6 @@
-# working-with-md-file
-
+# Working with .md file
 ***
-### Important feature of markdown(md) file as text editor) ###
+### Important feature of markdown(md) file as text editor. ###
 
 # Changing Heading size #
 # Heading 1 # 
@@ -25,7 +24,7 @@
 ---
 # Images #
 **syntax : ![alternate name](resource loation)**
-![image](https://www.pngkit.com/bigpic/u2q8a9y3r5q8o0y3)
+![image](itachi.jpg)
 
 ---
 # Code #
