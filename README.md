@@ -1,7 +1,8 @@
 # Working with .md file
-***
+
 ### Important feature of markdown(md) file as text editor. ###
 
+***
 # Changing Heading size #
 # Heading 1 # 
 ## Heading 2 ##   
@@ -50,8 +51,8 @@ _example of table_
 |Narayan Krishna|C.S.E|Python,JS|
 
 ---
-> Markdown files are amazing to write text file .
-
+>Markdown files are amazing to write text file .
+>Image used in this github is not mine.
 ***
 
 
