@@ -20,13 +20,15 @@
 ---
 # Links #
 **syntax : [link name](link location)**<br>
-Link name : [This is link to google](www.google.com)
+Link name : [This is link](#)
 
 ---
 # Images #
 **syntax : ![alternate name](resource loation)**
 
->Image used in this github repo is not mine, just use to demonstrate the working of image in .md file **Hail to the creator**.<br>
+>Image used in this github repo is not mine, just use to demonstrate the working of image in .md file.<br>
+**Hail to the creator** 
+<br>
 ![image](itachi.jpg)
 
 ---
