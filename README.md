@@ -1,5 +1,7 @@
 # working-with-md-file
-Important feature of markdown(md) file as text editor)
+
+***
+### Important feature of markdown(md) file as text editor) ###
 
 # Changing Heading size #
 # Heading 1 # 
@@ -26,7 +28,7 @@ Important feature of markdown(md) file as text editor)
 ![image](https://www.pngkit.com/bigpic/u2q8a9y3r5q8o0y3/)
 
 ---
-# code #
+# Code #
 This is code snippet `pip install django`.
 
 ---
@@ -49,7 +51,7 @@ _example of table_
 |Narayan Krishna|C.S.E|Python,JS|
 
 ---
-> Markdown Files are amazing to write text file .
+> Markdown files are amazing to write text file .
 
 ***
 
