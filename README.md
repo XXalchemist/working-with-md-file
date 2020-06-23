@@ -25,7 +25,7 @@
 ---
 # Images #
 **syntax : ![alternate name](resource loation)**
-![image](https://www.pngkit.com/bigpic/u2q8a9y3r5q8o0y3/)
+![image](https://www.pngkit.com/bigpic/u2q8a9y3r5q8o0y3)
 
 ---
 # Code #
