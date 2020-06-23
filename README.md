@@ -19,14 +19,14 @@
 
 ---
 # Links #
-**syntax : [link name](link location)**
-[This is link to google](www.google.com)
+**syntax : [link name](link location)**<br>
+Link name : [This is link to google](www.google.com)
 
 ---
 # Images #
 **syntax : ![alternate name](resource loation)**
 
->Image used in this github repo is not mine, just use to demonstrate the working of image in .md file **Hail to the creator**.
+>Image used in this github repo is not mine, just use to demonstrate the working of image in .md file **Hail to the creator**.<br>
 ![image](itachi.jpg)
 
 ---
@@ -35,8 +35,8 @@ This is code snippet `pip install django`.
 
 ---
 # Advance code snipets #
-Provides beautiful code snippets
-**syntax : ``` PL name  code snippet```**
+Provides beautiful code snippets<br>
+**syntax : ``` PL name  code snippet```**<br>
 _Code Snippet for python_
 ```Python
 /* Hello world */
