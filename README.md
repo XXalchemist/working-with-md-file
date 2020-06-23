@@ -1,6 +1,6 @@
 # Working with .md file
 
-### Important feature of markdown(md) file as text editor. ###
+### markdown(md) file as text editor is beautiful and nice. ###
 
 ***
 # Changing Heading size #
